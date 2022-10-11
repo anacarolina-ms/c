@@ -1,17 +1,17 @@
-# Linguagem C
+# C language
 
-* Exercicios e projetos básicos feitos durante a graduação em Engenharia Mecatrônica em Programação I.
+* Basic exercises and projects made during the graduation in Mechatronics Engineering in Programming I.
 
 ---
 
-## Tópicos encontrados no repositório
+## Topics found in the repository
 
-1. Estruturas de Repetição;
-2. Estruturas de Seleção;
-3. Funções e Bibliotecas;
-4. Funções e Modularização;
-5. Operadores Lógicos e Tabela Verdade;
-6. Operadores Relacionais;
-7. Vetores Bidimensionais;
-8. Vetores e Matrizes;
-9. Proposta de Projeto Final: Calculadora.
+1. Repetition Structures;
+2. Selection Structures;
+3. Functions and Libraries;
+4. Functions and Modularization;
+5. Logical Operators and Truth Table;
+6. Relational Operators;
+7. Two-dimensional Vectors;
+8. Vectors and Matrices;
+9. Final Project Proposal: Calculator.
